@@ -60,3 +60,4 @@ If you have any questions or need assistance, please open an issue in this repos
  
 Thank you for contributing to OptimAI Network's documentation!
 ## Claim Airdrop Guide
+soon
